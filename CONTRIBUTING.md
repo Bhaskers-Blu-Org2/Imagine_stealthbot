@@ -1,4 +1,4 @@
-![](https://github.com/Microsoft/Imagine_fudge-roll/blob/master/Microsoft-Imagine.png)
+![](https://github.com/Microsoft/Imagine_stealthbot/blob/master/Microsoft-Imagine.png)
 
 ## Contributing 
 
